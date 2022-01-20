@@ -1,0 +1,4 @@
+﻿  test_1.c
+C:\C 语言\test_1_20\test_1.c(160,13): warning C4013: “strcmp”未定义；假设外部返回 int
+C:\C 语言\test_1_20\test_1.c(159,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test_1_20.vcxproj -> C:\C 语言\test_1_20\x64\Debug\test_1_20.exe
