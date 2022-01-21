@@ -1,0 +1,3 @@
+﻿  hehe.c
+C:\Users\Jackie\source\repos\test_1_21\hehe.c(54,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test_1_21.vcxproj -> C:\Users\Jackie\source\repos\test_1_21\Debug\test_1_21.exe
